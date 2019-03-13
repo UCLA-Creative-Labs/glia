@@ -23,7 +23,7 @@ module.exports = {
         // global app config object
         config: JSON.stringify({
             apiUrl: 'http://localhost:4000'
-            //apiURL: 'https://polar-plateau-66303.herokuapp.com'
+            //apiUrl: 'https://polar-plateau-66303.herokuapp.com'
         })
     }
 }

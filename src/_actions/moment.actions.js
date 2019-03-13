@@ -18,7 +18,7 @@ function create(moment) {
             .then(
                 moment => { 
                     dispatch(success());
-                    history.push('/');
+                    history.push('/feed');
                     dispatch(alertActions.success('Moment Creation successful'));
                 },
                 error => {
