@@ -85,10 +85,10 @@ class FeedPage extends React.Component {
                </div>
             }
             <p>
-               <StyledLink to="/">Home</StyledLink>
+               <StyledLink to="/">home</StyledLink>
             </p>
             <p>
-               <StyledLink to="/login">Logout</StyledLink>
+               <StyledLink to="/login">log out</StyledLink>
             </p>
          </div>
       );

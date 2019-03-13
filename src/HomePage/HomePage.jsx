@@ -319,10 +319,10 @@ class HomePage extends React.Component {
               </div>
             </form>
             <p>
-              <StyledLink to="/feed">Feed</StyledLink>
+              <StyledLink to="/feed">feed</StyledLink>
             </p>
             <p>
-              <StyledLink to="/login">Logout</StyledLink>
+              <StyledLink to="/login">log out</StyledLink>
             </p>
           </div>
         </div>
