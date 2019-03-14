@@ -1,5 +1,20 @@
-# react-redux-registration-login-example
+# Glia
 
-React + Redux - User Registration and Login Tutorial & Example
+Mental Health Gratitude Journal
 
-For documentation and further details go to http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+## Running it locally:
+
+Make sure you have `npm` installed on your machine
+
+```bash
+git clone https://github.com/UCLA-Creative-Labs/glia-frontend`
+cd glia-frontend
+npm install
+npm run dev
+```
+
+## Creating Webpack bundle for deployment:
+
+```bash
+webpack -p
+```
