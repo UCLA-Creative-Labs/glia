@@ -17,6 +17,7 @@
     "dev": "webpack-dev-server --open --mode development"
   },
   "dependencies": {
+    "express": "^4.16.4",
     "history": "^4.6.3",
     "moment": "^2.24.0",
     "react": "^16.0.0",
